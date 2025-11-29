@@ -1,0 +1,7 @@
+{
+  "name": "Trường THCS Đa Kia - Toán Học",
+  "description": "Ứng dụng hỗ trợ học tập và kiểm tra môn Toán theo bộ sách Chân trời sáng tạo cho học sinh THCS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
